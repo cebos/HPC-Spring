@@ -1,6 +1,6 @@
 # HPC Spring
 This is a demo for Git.
-I have now added this extra line.
+I have now added this extra line. Now there is a smiley face! :)
 
 ## Install instruction
 - Clone the repository
