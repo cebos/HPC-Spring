@@ -2,7 +2,7 @@
 This is a demo for Git.
 I have now added this extra line. Now there is a smiley face! :)
 
-## Install instruction
+## Installation instructions
 - Clone the repository
 - Install python 3.9 or higher
 
